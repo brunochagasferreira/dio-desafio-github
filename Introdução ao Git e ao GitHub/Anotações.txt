@@ -1,3 +1,4 @@
 Link para download do Git: https://git-scm.com/
 O git Bash é um terminal extendido para otimizar o uso do Git
 Link para Basic Syntax Markdown: https://www.markdownguide.org/basic-syntax/
+O Markdown éuma linguagem de marcação leve usada para formatar texto simples
